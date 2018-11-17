@@ -1,5 +1,7 @@
 Classic-Arcade-Game
 ===============================
+## View Live
+https://nehavatsyan.github.io/ClassicArcadeGame/
 Starter Code - Udacity
 
 This project has been made to fulfill project requirements for udacity nanodegree.
